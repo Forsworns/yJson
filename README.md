@@ -19,7 +19,7 @@ getType(getArrayElement(v, 2)); // Type::TRUE
 getString(getArrayElement(v, 4)); // "abc"
 ```
 
-A minimum g++ version>7 may be (enough)[https://en.cppreference.com/w/cpp/compiler_support]. During implementation, I use g++ version 7.5.0 and cmake version 3.10.2.
+A minimum g++ version>7 may be [enough](https://en.cppreference.com/w/cpp/compiler_support). During implementation, I use g++ version 7.5.0 and cmake version 3.10.2.
 
 Todo:
 OOP implementations like [MiniJson](https://github.com/zsmj2017/MiniJson) or [Json](https://github.com/Yuan-Hang/Json) 
