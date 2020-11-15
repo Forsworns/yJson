@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C++-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Yet another json library in mordern C++. 
+Yet another json library in modern C++. 
 
 Based on the original C tutorial from [miloyip](https://github.com/miloyip/json-tutorial).
 
